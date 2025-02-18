@@ -1,7 +1,7 @@
-#Lasanha Caseira: Uma Festa de Sabores!
-##Ingredientes:
+# Lasanha Caseira: Uma Festa de Sabores! 
+## Ingredientes:
 
-##Para o molho:
+## Para o molho:
 
 - **2 colheres de sopa** de azeite extra virgem
 - **1 cebola** picada
@@ -12,24 +12,24 @@
 - **1/2 colher de chá** de orégano seco
 - **1/4 colher de chá** de manjericão seco
 - **Sal e pimenta do reino** a gosto
-##Para o recheio:
+## Para o recheio:
 
 - **500g de queijo muçarela** ralado
 - **250g de ricota** amassada
 - **1 ovo**
 - **1/2 xícara de queijo parmesão** ralado
 - **Sal e pimenta do reino** a gosto
-##Para as camadas:
+## Para as camadas:
 
 - **12 placas de lasanha** pré-cozidas
 - **Molho bechamel** (receita abaixo)
-##Molho Bechamel:
+## Molho Bechamel:
 
 - **4 colheres de sopa** de manteiga
 - **4 colheres de sopa** de farinha de trigo
 - **1 litro de leite**
 - **Sal e noz-moscada** a gosto
-##Preparo:
+## Preparo:
 
 1. Molho:
 
