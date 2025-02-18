@@ -1,4 +1,4 @@
-# Lasanha Caseira: Uma Festa de Sabores! 
+# Lasanha Caseira: Uma Festa de Sabores! 🥩
 ## Ingredientes:
 
 ## Para o molho:
