@@ -65,4 +65,4 @@ Dicas:
 
 Para uma lasanha mais cremosa, adicione **1 xícara de leite** ao molho de carne.
 Experimente adicionar outros ingredientes ao recheio, como espinafre, cogumelos ou calabresa.
-Para uma versão vegetariana, substitua a carne moída por vegetais picados, como berinjela, abobrinha e cenoura.
+**Para uma versão vegetariana, substitua a carne moída por vegetais picados, como berinjela, abobrinha e cenoura.**
